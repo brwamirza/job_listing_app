@@ -5,6 +5,19 @@
       "bundler": "metro"
     },
     "name": "job_listing_app",
-    "slug": "job_listing_app"
+    "slug": "job_listing_app",
+    "extra": {
+      "eas": {
+        "projectId": "5ad8d716-d6cb-48ad-9a57-123cf9920fd0"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5ad8d716-d6cb-48ad-9a57-123cf9920fd0"
+    },
+    "android": {},
+    "ios": {}
   }
 }
